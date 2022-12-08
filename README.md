@@ -14,6 +14,8 @@ C. Architecture design document.\
 D. Wireframe document.\
 E. A detailed Project ppt file.
 
-3. At the end visualized using Power BI
+3.At the end visualized using Power BI
+
+Project video Link YouTube - https://youtu.be/CpWjWU2z_ts
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
